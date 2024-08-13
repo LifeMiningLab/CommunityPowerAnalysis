@@ -1,4 +1,4 @@
-[CPA_materials.zip](https://github.com/user-attachments/files/16592814/CPA_materials.zip)# CommunityPowerAnalysis
+# CommunityPowerAnalysis
 
 Measure the functional importance of microbes residing in a microbiome community
 
